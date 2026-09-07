@@ -1,3 +1,13 @@
+# Pokémon Teams: JavaScript CRUD exercise
+
+A Flatiron School exercise completed by Njenga Kariuki in April 2019. The JavaScript frontend loads trainers and their Pokémon, adds team members and releases them through API requests and DOM updates.
+
+**Learning archive.** The Rails backend, assignment and demonstration GIF were supplied with the exercise; Njenga's work is in the frontend implementation. The original code and assignment are preserved and have not been revalidated against current dependencies.
+
+To run the supplied Rails backend locally, export `SECRET_KEY_BASE` with your own random value. You can generate one with `ruby -rsecurerandom -e 'puts SecureRandom.hex(64)'`. Keep that value outside source control.
+
+## Original assignment
+
 # Pokemon Teams!
 
 Here you're going to help us keep track of Pokemon
